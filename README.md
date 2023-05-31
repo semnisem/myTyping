@@ -2,9 +2,11 @@
 C++로 구현한 한글 타자연습 프로그램
 
 ### 1. 실행방법
-실행파일은 x64/Debug 폴더 내 myTyping.exe를 다운로드 후 실행
+실행파일은 x64/Debug 폴더 내 myTyping.exe를 다운로드 후 실행  
+
 ![myTyping_flowchart](https://github.com/semnisem/myTyping/assets/101847670/236c2335-d666-4711-9f71-3c7571c1dd68)  
-플로우차트는 위와 같이, ⭐️타자연습 전에 타자연습할 데이터를 반드시 입력해야함에 유의⭐️한다.
+플로우차트는 위와 같이, ⭐️타자연습 전에 타자연습할 데이터를 반드시 입력해야함에 유의⭐️한다.  
+
   
 main( ) 홈화면은 아래와 같다.  
 ![mainhome](https://github.com/semnisem/myTyping/assets/101847670/267a0656-e71e-43a9-8c05-8aa46e866c8c)  
